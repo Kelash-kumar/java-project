@@ -1,0 +1,29 @@
+Train :( 01 )
+____________________________________________________________________
+Train id                       1
+Train type                   local+busniss
+Train schedule         12:00am
+day                              Monday
+destinatioin                  Quetta
+totol seats                      50
+____________________________________________________________________
+
+Train : ( 02 )
+____________________________________________________________________
+Train id                       2
+Train type                   local+busniss
+Train schedule         12:00am
+day                              Monday
+destinatioin                  Rawalpendi
+totol seats                      50
+___________________________________________________________________
+
+Train : (03 )
+____________________________________________________________________
+Train id                       3
+Train type                   local+busniss
+Train schedule         12:00am
+day                              Monday
+destinatioin                  Islamabad
+totol seats                      50
+________________________________________________________________
